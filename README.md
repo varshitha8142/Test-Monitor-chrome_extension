@@ -16,7 +16,6 @@ and initiates image proctoring, sending images to the server every three minutes
 This is a TestMonitor Chrome Extension using HTML, CSS, JavaScript, JSON, MySQL, Google Cloud Storage, Python.</br>
 
 1) Install the necessary software: To start with, you will need to install the following software:</br>
-    * Node.js (https://nodejs.org/en/) </br>
     * Visual Studio Code (https://code.visualstudio.com/) </br>
     
 2) Create a new project: Open Visual Studio Code and create a new folder for your project. Inside the folder, create a new file called manifest.json. This file will contain the basic information about your extension, such as its name, version, and description.</br>
