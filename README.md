@@ -20,9 +20,9 @@ This is a TestMonitor Chrome Extension using HTML, CSS, JavaScript, JSON, MySQL,
     
 2) Create a new project: Open Visual Studio Code and create a new folder for your project. Inside the folder, create a new file called manifest.json. This file will contain the basic information about your extension, such as its name, version, and description.</br>
 
-3) Create the content.js file: Inside the project folder, create a new file called content.js. This file will contain the JavaScript code that will run on the assessment website.</br>
+3) Create the jest.config.js file: Inside the project folder, create a new file called jest.config.js. This file will contain the JavaScript code that will run on the assessment website.</br>
 
-4) Implement the extension functionality: In the content.js file, add the JavaScript code that will implement the functionality of the extension. This code should perform the following tasks:</br>
+4) Implement the extension functionality: In the jest.config.js file, add the JavaScript code that will implement the functionality of the extension. This code should perform the following tasks:</br>
 
    * Open a form for the user to enter their name, email, and test invitation code</br>
    * Perform a camera and audio check</br>
@@ -31,7 +31,7 @@ This is a TestMonitor Chrome Extension using HTML, CSS, JavaScript, JSON, MySQL,
   
 
 
-That's it! You have now set up the "TestMonitor-Chrome-Extension" project and can use it to ensure academic integrity during exams.</br>
+You have now set up the "TestMonitor-Chrome-Extension" project and can use it to ensure academic integrity during exams.</br>
 
 
 ## ⚙ To install:</br>
