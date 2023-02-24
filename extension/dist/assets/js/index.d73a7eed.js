@@ -1,0 +1,1 @@
+import{j as t,c as o}from"./jsx-runtime.28b60716.js";function n(){return t("div",{children:"app"})}const e=document.createElement("div");e.id="chrome-extension-boilerplate-react-vite-content-view-root";document.body.append(e);o(e).render(t(n,{}));
